@@ -1,0 +1,99 @@
+.pt1 {
+    background-color: rgb(211, 208, 205);
+}
+.pt1 h1{
+    margin-left: 2rem;
+    padding:20px;
+}
+.pt1 ol{
+    list-style: none;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+.pt1 ol ul{
+    list-style:none;
+}
+.pt1 ol li{
+    margin-bottom:10px;
+}
+.pt1 img{
+  margin-right: 4em;   
+  margin-top: 2em; 
+}
+
+.pt2 ul{
+    list-style:none;
+    font-size: medium;
+}
+.pt2 ol{
+    list-style: none;
+    margin-top: 2em;
+}
+
+.pt2 li{
+    margin-bottom:10px;
+}
+.button a:hover{
+    color:black;
+}
+.pt3 {
+    background-color: rgb(211, 208, 205);
+}
+.pt3 ol{
+    list-style: none;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+.pt3 ol ul{
+    list-style:none;
+}
+.pt3 ol li{
+    margin-bottom:10px;
+}
+.pt3 img{
+  margin-right: 4em;   
+  margin-top: 2em; 
+}
+.pt4 ul{
+    list-style:none;
+    font-size: medium;
+}
+.pt4 ol{
+    list-style: none;
+    margin-top: 2em;
+}
+.pt4 li{
+    margin-bottom:10px;
+}
+.pt5 {
+    background-color: rgb(211, 208, 205);
+}
+.pt5 ol{
+    list-style: none;
+    margin-left: 2em;
+    margin-top: 2em;
+}
+.pt5 ol ul{
+    list-style:none;
+    margin-left:23px;
+
+}
+
+.pt5 ol li{
+    margin-bottom:10px;
+}
+.pt5 img{
+  margin-right: 4em;   
+  margin-top: 2em; 
+}
+.pt6 ul{
+    list-style:none;
+    font-size: medium;
+}
+.pt6 ol{
+    list-style: none;
+    
+}
+.pt6 li{
+    margin-bottom:10px;
+}
